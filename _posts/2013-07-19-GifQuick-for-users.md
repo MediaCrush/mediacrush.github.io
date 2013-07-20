@@ -34,7 +34,7 @@ Not only are we super fast for gifs, we've put a huge pipe on our beefy servers,
 compression to serve them faster, too. We also do a lot of things that you might like that are unrelated to our images:
 
 * You can use our site totally anonymously
-* All connections to https://gifquick.net are encrypted
+* All connections to [https://gifquick.net](https://gifquick.net) are encrypted
 * We couldn't give the NSA (or anyone else) your private info, even if we wanted to
 
 There's more details on privacy and such in the sister blog post, [GifQuick for Nerds](/2013/07/19/GifQuick-for-nerds.html).
