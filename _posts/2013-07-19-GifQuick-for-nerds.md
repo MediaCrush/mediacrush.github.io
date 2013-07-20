@@ -53,7 +53,7 @@ you want with it.
 GifQuick is also pretty dependent on open source software. The biggest of these is
 [ffmpeg](http://ffmpeg.org), an amazing piece of software that can do anything with video files. It runs our
 processing server and makes those gifs into videos for extra sexy load times. We also use software like
-jhead to strip exif tags out of JPG files, and pngout for lossless PNG compression.
+jhead to strip exif tags out of JPG files.
 
 ### Launch Time
 
