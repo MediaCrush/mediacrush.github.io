@@ -7,7 +7,8 @@ If you aren't familiar with [GifQuick](https://gifquick.net), a quick introducti
 hosting website designed for speedy images, but without sacrificing quality. We run uploaded static images
 through various lossless compression tools, but the big draw is our GIF support. Whenever you upload a gif
 to GifQuick, we convert it to a video using h.264 and Theora to encode it, which gets us dramatically
-smaller files. More details are available on the [demo page](https://gifquick.net/demo).
+smaller files. More details are available on the [demo page](https://gifquick.net/demo). You might also
+check out [this corresponding post](/2013/07/19/GifQuick-for-users.html) aimed at non-technical users.
 
 We're just tidying up around the place here before launching GifQuick properly. We're happy to have support
 from Reddit Enhancement Suite on day one, which we think will really benefit us. All the features we wanted
