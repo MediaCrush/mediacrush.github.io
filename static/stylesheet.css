@@ -41,7 +41,7 @@ h1 a, h3 a {
 }
 
 h1 a:hover, h3 a:hover {
-    color: #333;
+    color: #666;
     text-decoration: none;
 }
 
