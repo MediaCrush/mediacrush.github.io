@@ -30,8 +30,9 @@ get speeds even better. Hell, I've [seen ones](https://gifquick.net/Qq-sLq4otwN_
 is pretty bad. In the 28 years since GIF was created, we've made huge strides in video compression. So, in order to give you
 gifs faster, we convert them to videos. Pretty neat, huh?
 
-Not only are we super fast for gifs, we've put a huge pipe on our beefy servers, and we run PNG and JPG files through lossless
-compression to serve them faster, too. We also do a lot of things that you might like that are unrelated to our images:
+Not only are we super fast for gifs, we've invested in powerful servers and a ton of bandwidth*, and we run PNG and JPG files
+through lossless compression to serve them faster, too. We also do a lot of things that you might like that are unrelated
+to our images:
 
 * You can use our site totally anonymously
 * All connections to [https://gifquick.net](https://gifquick.net) are encrypted
@@ -47,3 +48,6 @@ get back to you.
 Oh, and **make sure you install the latest version of Reddit Enhancement Suite**.
 [/u/honestbleeps](http://reddit.com/user/honestbleeps) has been delightfully supportive of our efforts. Make sure you give him
 a great big hug the next time you see him.
+
+<div class="small">* Those powerful servers and that bandwidth aren't free. We'd love your
+<a href="https://gifquick.net/donate">donation</a>!</div>
