@@ -30,7 +30,7 @@ get speeds even better. Hell, I've [seen ones](https://gifquick.net/Qq-sLq4otwN_
 is pretty bad. In the 28 years since GIF was created, we've made huge strides in video compression. So, in order to give you
 gifs faster, we convert them to videos. Pretty neat, huh?
 
-Not only are we super fast for gifs, we've invested in powerful servers and a ton of bandwidth*, and we run PNG and JPG files
+Not only are we super fast for gifs, we've invested in powerful servers and a ton of bandwidth*, and we run JPG files
 through lossless compression to serve them faster, too. We also do a lot of things that you might like that are unrelated
 to our images:
 
