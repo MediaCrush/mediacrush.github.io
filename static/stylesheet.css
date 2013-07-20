@@ -25,15 +25,6 @@ h1 {
     clear: both;
 }
 
-h1 a, h3 a {
-    color: #000;
-    text-decoration: none;
-}
-
-h1 a:hover, h3 a:hover {
-    color: #333;
-}
-
 a {
     color: #08c;
     text-decoration: none;
@@ -42,6 +33,16 @@ a {
 a:hover {
     color: #005580;
     text-decoration: underline;
+}
+
+h1 a, h3 a {
+    color: #000;
+    text-decoration: none;
+}
+
+h1 a:hover, h3 a:hover {
+    color: #333;
+    text-decoration: none;
 }
 
 .post {
