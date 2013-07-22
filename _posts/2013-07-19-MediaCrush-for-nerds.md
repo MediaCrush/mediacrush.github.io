@@ -10,7 +10,7 @@ to MediaCrush, we convert it to a video using h.264 and Theora to encode it, whi
 smaller files. More details are available on the [demo page](https://mediacru.sh/demo). You might also
 check out [this corresponding post](/2013/07/19/MediaCrush-for-users.html) aimed at non-technical users.
 
-We're just tidying up around the place here before launching GifQuick properly. We're happy to have support
+We're just tidying up around the place here before launching MediaCrush properly. We're happy to have support
 from Reddit Enhancement Suite on day one, which we think will really benefit us. All the features we wanted
 to get in have gotten in, and we're pretty satisfied with the site. I just wanted to take a moment to ramble
 about our thoughts behind the site, from a developer perspective.
@@ -22,7 +22,7 @@ wanted to be sure it was everything you could ever want out of your image hostin
 we made sure to do for the sake of our technically adept friends:
 
 * All pages are served over https, all the time, from day one.
-* GifQuick respects your "Do Not Track" settings. We won't include Google Analytics on the page if you have
+* MediaCrush respects your "Do Not Track" settings. We won't include Google Analytics on the page if you have
   [Do Not Track](http://donottrack.us/) set in your browser.
 * We allow all users to opt-out of ads forever, without making a fuss about it. One click and they're gone.
 * Transparency is key. We publish monthly reports on just about everything we can report on. You can browse
@@ -50,7 +50,7 @@ server capacity, RES support, etc, but we still want to make it so that you're a
 version if you'd like. We selected the very liberal MIT license for MediaCrush, so feel free to do whatever
 you want with it.
 
-GifQuick is also pretty dependent on open source software. The biggest of these is
+MediaCrush is also pretty dependent on open source software. The biggest of these is
 [ffmpeg](http://ffmpeg.org), an amazing piece of software that can do anything with video files. It runs our
 processing server and makes those gifs into videos for extra sexy load times. We also use software like
 jhead to strip exif tags out of JPG files.
