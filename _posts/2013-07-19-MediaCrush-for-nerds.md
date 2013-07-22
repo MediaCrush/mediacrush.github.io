@@ -1,14 +1,14 @@
 ---
-title: GifQuick for Nerds
+title: MediaCrush for Nerds
 layout: post
 ---
 
-If you aren't familiar with [GifQuick](https://gifquick.net), a quick introduction: GifQuick is an image
+If you aren't familiar with [MediaCrush](https://mediacru.sh), a quick introduction: MediaCrush is an image
 hosting website designed for speedy images, but without sacrificing quality. We run uploaded static images
 through various lossless compression tools, but the big draw is our GIF support. Whenever you upload a gif
-to GifQuick, we convert it to a video using h.264 and Theora to encode it, which gets us dramatically
-smaller files. More details are available on the [demo page](https://gifquick.net/demo). You might also
-check out [this corresponding post](/2013/07/19/GifQuick-for-users.html) aimed at non-technical users.
+to MediaCrush, we convert it to a video using h.264 and Theora to encode it, which gets us dramatically
+smaller files. More details are available on the [demo page](https://mediacru.sh/demo). You might also
+check out [this corresponding post](/2013/07/19/MediaCrush-for-users.html) aimed at non-technical users.
 
 We're just tidying up around the place here before launching GifQuick properly. We're happy to have support
 from Reddit Enhancement Suite on day one, which we think will really benefit us. All the features we wanted
@@ -26,28 +26,28 @@ we made sure to do for the sake of our technically adept friends:
   [Do Not Track](http://donottrack.us/) set in your browser.
 * We allow all users to opt-out of ads forever, without making a fuss about it. One click and they're gone.
 * Transparency is key. We publish monthly reports on just about everything we can report on. You can browse
-  them [here](https://gifquick.net/transparency). That includes Google Analytics reports, server hosting
+  them [here](https://mediacru.sh/transparency). That includes Google Analytics reports, server hosting
   costs and advertising revenue, donations we get, everything.
 * The only thing we store about you is your hashed IP address when you upload a gif. It's impossible for us
   to get your original IP address from this. Our http logs don't show IPs, either. The only reason we store
   your hashed IP at all is because we need to be able to identify malicious users and prevent them from
   uploading. If our database was stolen or we were pressured into releasing it, you'd remain completely
   anonymous.
-* We accept bitcoin for [donations](https://gifquick.net/donate)! Both of the guys here are big fans of
+* We accept bitcoin for [donations](https://mediacru.sh/donate)! Both of the guys here are big fans of
   bitcoin. You can use them to donate anonymously to our effort.
 
 You can learn all the gory details about our stance on privacy and such on our
-["serious" page](https://gifquick.net/serious).
+["serious" page](https://mediacru.sh/serious).
 
 ### Open Source Software
 
-Everything about GifQuick is completely free, as in freedom. The site is written in Python, runs on Linux,
+Everything about MediaCrush is completely free, as in freedom. The site is written in Python, runs on Linux,
 and uses open-source tools for media processing. Not only that, the site itself is 
-[completely open source](https://github.com/GifQuick/GifQuick). We welcome your contributions.
+[completely open source](https://github.com/MediaCrush/MediaCrush). We welcome your contributions.
 Additionally, we tried to be as encouraging of clones as we can. In the repository, you'll find instructions
-on how to set up your own GifQuick clone. We're not too scared of competetion - clones won't get our name,
+on how to set up your own MediaCrush clone. We're not too scared of competetion - clones won't get our name,
 server capacity, RES support, etc, but we still want to make it so that you're able to set up your own
-version if you'd like. We selected the very liberal MIT license for GifQuick, so feel free to do whatever
+version if you'd like. We selected the very liberal MIT license for MediaCrush, so feel free to do whatever
 you want with it.
 
 GifQuick is also pretty dependent on open source software. The biggest of these is
@@ -60,6 +60,6 @@ jhead to strip exif tags out of JPG files.
 Most of you will probably read this after launch, but for us, we're still getting ready. We're pretty damn
 excited about this software, and hope it'll go far. You can let us know your thoughts by commenting here.
 You can also join us and listen in on (or contribute to) development chatter on our
-[IRC channel](http://webchat.freenode.net/?channels=gifquick&uio=d4) ([irc://](irc://irc.freenode.net/gifquick)).
+[IRC channel](http://webchat.freenode.net/?channels=mediacrush&uio=d4) ([irc://](irc://irc.freenode.net/mediacrush)).
 If we've missed anything at all, please let us know and we'll do our best to get it in. Thanks for using
-GifQuick!
+MediaCrush!
