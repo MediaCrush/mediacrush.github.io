@@ -1,24 +1,24 @@
 ---
-title: GifQuick for Users
+title: MediaCrush for Users
 layout: post
 ---
 
-We're getting ready to launch GifQuick soon, and wanted to drop a quick post here to show you around the place. By the time you
+We're getting ready to launch MediaCrush soon, and wanted to drop a quick post here to show you around the place. By the time you
 read this, we'll probably already have "launched" properly. So, let's get you acquainted with the site.
-[GifQuick](https://gifquick.net) is an image hosting site. There are many such sites, but GifQuick is made unique by its speed.
-Most importantly (as the name would imply), GifQuick serves up gifs super fast, through the magic of video.
+[MediaCrush](https://mediacru.sh) is an image hosting site. There are many such sites, but MediaCrush is made unique by its speed.
+Most importantly (as the name would imply), MediaCrush serves up gifs super fast, through the magic of video.
 
 <div class="row">
     <div class="left">
         <h3>GIF</h3>
-        <img src="https://gifquick.net/static/demo.gif" alt="GIF demo" />
+        <img src="https://mediacru.sh/static/demo.gif" alt="GIF demo" />
         <p>Filesize: 1965 kB (~2.0 MB)</p>
     </div>
     <div class="right">
         <h3>Video</h3>
         <video autoplay loop>
-            <source src="https://gifquick.net/static/demo.mp4" type='video/mp4'></source>
-            <source src="https://gifquick.net/static/demo.ogv" type='video/ogg; codecs="theora,vorbis"'></source>
+            <source src="https://mediacru.sh/static/demo.mp4" type='video/mp4'></source>
+            <source src="https://mediacru.sh/static/demo.ogv" type='video/ogg; codecs="theora,vorbis"'></source>
         </video>
         <p>Filesize: 118 kB (~0.118 MB)</p>
     </div>
@@ -35,14 +35,14 @@ through lossless compression to serve them faster, too. We also do a lot of thin
 to our images:
 
 * You can use our site totally anonymously
-* All connections to [https://gifquick.net](https://gifquick.net) are encrypted
+* All connections to [https://mediacru.sh](https://mediacru.sh) are encrypted
 * We couldn't give the NSA (or anyone else) your private info, even if we wanted to
 
-There's more details on privacy and such in the sister blog post, [GifQuick for Nerds](/2013/07/19/GifQuick-for-nerds.html).
+There's more details on privacy and such in the sister blog post, [MediaCrush for Nerds](/2013/07/19/MediaCrush-for-nerds.html).
 
-In short: GifQuick is a super-fast, super-sleek image host that takes every step to defend your privacy. We're also totally
+In short: MediaCrush is a super-fast, super-sleek image host that takes every step to defend your privacy. We're also totally
 free (we even let you disable advertisements), and we love our users. What are you waiting for?
-[Upload some stuff!](https://gifquick.net) If you have questions or just want to chat, drop a comment and we'll do our best to
+[Upload some stuff!](https://mediacru.sh) If you have questions or just want to chat, drop a comment and we'll do our best to
 get back to you.
 
 Oh, and **make sure you install the latest version of Reddit Enhancement Suite**.
@@ -50,4 +50,4 @@ Oh, and **make sure you install the latest version of Reddit Enhancement Suite**
 a great big hug the next time you see him.
 
 <div class="small">* Those powerful servers and that bandwidth aren't free. We'd love your
-<a href="https://gifquick.net/donate">donation</a>!</div>
+<a href="https://mediacru.sh/donate">donation</a>!</div>
