@@ -25,6 +25,8 @@ we made sure to do for the sake of our technically adept friends:
 * MediaCrush respects your "Do Not Track" settings. We won't include Google Analytics on the page if you have
   [Do Not Track](http://donottrack.us/) set in your browser.
 * We allow all users to opt-out of ads forever, without making a fuss about it. One click and they're gone.
+  It's even possible to opt-out without ever seeing an ad at all - [click here](https://mediacru.sh/serious)
+  and click the link in the relevant paragraph under "privacy".
 * Transparency is key. We publish monthly reports on just about everything we can report on. You can browse
   them [here](https://mediacru.sh/transparency). That includes Google Analytics reports, server hosting
   costs and advertising revenue, donations we get, everything.
