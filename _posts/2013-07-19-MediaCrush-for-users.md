@@ -31,8 +31,8 @@ is pretty bad. In the 28 years since GIF was created, we've made huge strides in
 gifs faster, we convert them to videos. Pretty neat, huh?
 
 Not only are we super fast for gifs, we've invested in powerful servers and a ton of bandwidth*, and we run other files
-through lossless compression to serve them faster, too. We also do a lot of things that you might like that are unrelated
-to our images:
+through lossless compression tools to serve them faster, too. We also do a lot of things that you might like that are
+unrelated to our images:
 
 * You can use our site totally anonymously
 * All connections to [https://mediacru.sh](https://mediacru.sh) are encrypted
