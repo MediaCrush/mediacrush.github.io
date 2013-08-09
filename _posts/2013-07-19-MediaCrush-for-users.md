@@ -46,8 +46,8 @@ free (we even let you disable advertisements), and we love our users. What are y
 get back to you.
 
 Oh, and **make sure you install the latest version of Reddit Enhancement Suite**.
-[/u/honestbleeps](http://reddit.com/user/honestbleeps) has been delightfully supportive of our efforts. Make sure you give him
-a great big hug the next time you see him.
+[/u/honestbleeps](http://reddit.com/user/honestbleeps) has been been kind enough to integrate MediaCrush support into the
+latest version of RES. Make sure you give him a great big hug the next time you see him.
 
 <div class="small">* Those powerful servers and that bandwidth aren't free. We'd love your
 <a href="https://mediacru.sh/donate">donation</a>!</div>
