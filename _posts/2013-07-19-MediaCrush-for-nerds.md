@@ -32,9 +32,8 @@ we made sure to do for the sake of our technically adept friends:
   costs and advertising revenue, donations we get, everything.
 * The only thing we store about you is your hashed IP address when you upload a gif. It's impossible for us
   to get your original IP address from this. Our http logs don't show IPs, either. The only reason we store
-  your hashed IP at all is because we need to be able to identify malicious users and prevent them from
-  uploading. If our database was stolen or we were pressured into releasing it, you'd remain completely
-  anonymous.
+  your hashed IP at all is to enable us to identify malicious users and prevent them from  uploading. If our
+  database was stolen or we were pressured into releasing it, you'd remain completely anonymous.
 * We accept bitcoin for [donations](https://mediacru.sh/donate)! Both of the guys here are big fans of
   bitcoin. You can use them to donate anonymously to our effort.
 
