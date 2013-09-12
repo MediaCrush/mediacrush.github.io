@@ -6,7 +6,7 @@ layout: post
 **tl;dr**: [MediaCrush](https://mediacru.sh) hosts images, video, and audio for you and takes your privacy seriously. It's
 like imgur or minus, plus videos and audio, plus privacy.
 
-[MediaCrush](https://mediacru.sh) is an image hosting site. There are many such sites, but MediaCrush is made unique by its speed
+MediaCrush is an image hosting site. There are many such sites, but MediaCrush is made unique by its speed
 and its commitment to user privacy. For example, MediaCrush serves up gifs *way* faster than other sites:
 
 <div class="row">
@@ -47,9 +47,7 @@ free (we even let you disable advertisements), and we love our users. What are y
 [Upload some stuff!](https://mediacru.sh) If you have questions or just want to chat, drop a comment and we'll do our best to
 get back to you.
 
-Oh, and **make sure you install the latest version of Reddit Enhancement Suite**.
-[/u/honestbleeps](http://reddit.com/user/honestbleeps) has been been kind enough to integrate MediaCrush support into the
-latest version of RES. Make sure you give him a great big hug the next time you see him.
+By the way, the thing we need the most right now is users! If you like what we're doing, tell your friends about us.
 
 <div class="small">* Those powerful servers and that bandwidth aren't free. We'd love your
 <a href="https://mediacru.sh/donate">donation</a>!</div>
