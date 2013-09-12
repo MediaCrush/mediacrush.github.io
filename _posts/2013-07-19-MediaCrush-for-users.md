@@ -6,7 +6,7 @@ layout: post
 We're getting ready to launch MediaCrush soon, and wanted to drop a quick post here to show you around the place. By the time you
 read this, we'll probably already have "launched" properly. So, let's get you acquainted with the site.
 [MediaCrush](https://mediacru.sh) is an image hosting site. There are many such sites, but MediaCrush is made unique by its speed
-and its commitment to user privacy. More importantly, MediaCrush serves up gifs super fast, through the magic of video.
+and its commitment to user privacy. For example, MediaCrush serves up gifs *way* faster than other sites:
 
 <div class="row">
     <div class="left">
