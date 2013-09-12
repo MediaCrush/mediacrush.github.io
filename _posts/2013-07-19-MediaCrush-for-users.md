@@ -3,8 +3,9 @@ title: MediaCrush for Users
 layout: post
 ---
 
-We're getting ready to launch MediaCrush soon, and wanted to drop a quick post here to show you around the place. By the time you
-read this, we'll probably already have "launched" properly. So, let's get you acquainted with the site.
+**tl;dr**: [MediaCrush](https://mediacru.sh) hosts images, video, and audio for you and takes your privacy seriously. It's
+like imgur or minus, plus videos and audio, plus privacy.
+
 [MediaCrush](https://mediacru.sh) is an image hosting site. There are many such sites, but MediaCrush is made unique by its speed
 and its commitment to user privacy. For example, MediaCrush serves up gifs *way* faster than other sites:
 
@@ -40,8 +41,6 @@ unrelated to our images:
 * Ads are completely optional, you can opt out and never see them again
 
 There's more details on privacy and such in the sister blog post, [MediaCrush for Nerds](/2013/07/19/MediaCrush-for-nerds.html).
-Compare our commitment to your privacy to your other favorite image hosts - imgur and minus make no such promises. Plus,
-those guys only support images - we'll take video, audio, and vectors, too.
 
 In short: MediaCrush is a super-fast, super-sleek image host that takes every step to defend your privacy. We're also totally
 free (we even let you disable advertisements), and we love our users. What are you waiting for?
