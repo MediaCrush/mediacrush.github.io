@@ -5,7 +5,7 @@ layout: post
 ---
 
 You may have noticed that we recently added a new feature: remembering your uploads. From this point on, if you upload a
-file, your computer will remember that you uploaded it. This is important - we do not store your uploads on our servers,
+file, your computer will remember that you uploaded it. This is important: we do not store your uploads on our servers,
 it's all stored on your own computer. This keeps your uploads private. If you do not want to remember them anyway, that's
 fine, too. You can disable this feature at any time. You are also able to remove specific items from your history, or
 clear it all out at once.
