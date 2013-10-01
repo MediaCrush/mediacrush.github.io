@@ -3,7 +3,7 @@ title: Privacy on MediaCrush
 layout: post
 ---
 
-**tl;dr**: Host your images/videos/audio [here](https://mediacru.sh). We're more privacy-concious than imgur,
+**tl;dr**: Host your images/videos/audio [here](https://mediacru.sh). We're more privacy-conscious than imgur,
 minus, YouTube, etc.
 
 A lot of people have taken steps to [opt-out of Prism](http://prism-break.org) and other government surveillance
