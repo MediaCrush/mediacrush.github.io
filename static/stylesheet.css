@@ -87,3 +87,12 @@ h1 a:hover, h3 a:hover {
 ul {
     line-height: 25px;
 }
+
+blockquote {
+    border-left: 2px solid rgb(51, 102, 153);
+    margin-left: 5px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background: #eee;
+}
