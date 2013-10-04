@@ -10,7 +10,7 @@ to MediaCrush, we convert it to a video using h.264 and Theora to encode it, whi
 smaller files. More details are available on the [demo page](https://mediacru.sh/demo). You might also
 check out [this corresponding post](/2013/07/19/MediaCrush-for-users.html) aimed at non-technical users.
 
-We're just tidying up around the place here before launching MediaCrush properly. We're happy to have support
+We're just tidying up around the place here before entering public beta. We're happy to have support
 from Reddit Enhancement Suite on day one, which we think will really benefit us. All the features we wanted
 to get in have gotten in, and we're pretty satisfied with the site. I just wanted to take a moment to ramble
 about our thoughts behind the site, from a developer perspective.
@@ -56,9 +56,9 @@ MediaCrush is also pretty dependent on open source software. The biggest of thes
 processing server and makes those gifs into videos for extra sexy load times. We also use software like
 jhead to strip exif tags out of JPG files.
 
-### Launch Time
+### Beta Time
 
-Most of you will probably read this after launch, but for us, we're still getting ready. We're pretty damn
+Most of you will probably read this after we hit beta, but for us, we're still getting ready. We're pretty damn
 excited about this software, and hope it'll go far. You can let us know your thoughts by commenting here.
 You can also join us and listen in on (or contribute to) development chatter on our
 [IRC channel](http://webchat.freenode.net/?channels=mediacrush&uio=d4) ([irc://](irc://irc.freenode.net/mediacrush)).
