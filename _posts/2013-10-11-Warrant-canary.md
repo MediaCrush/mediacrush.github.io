@@ -1,5 +1,5 @@
 ---
-title: Transparency Reports for October 2013
+title: Warrant Canary 
 layout: post
 ---
 
