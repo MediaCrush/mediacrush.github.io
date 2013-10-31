@@ -69,7 +69,7 @@ There's a demo right on this page! Try it out:
 
 <input type="file" id="mediacrush-file" style="display: none;" />
 <div>
-    <a href="#" id="mediacrush-upload"><img width=16 height=16 src="http://localhost:4000/static/logo.svg" style="display: inline; position: relative; margin-right: 2px; top: 2px;" />Upload to MediaCrush</a>
+    <a href="#" id="mediacrush-upload"><img width=16 height=16 src="https://blog.mediacru.sh/static/logo.svg" style="display: inline; position: relative; margin-right: 2px; top: 2px;" />Upload to MediaCrush</a>
     <div class="progress"></div>
 </div>
 <div id="mediacrush-results" style="height: 300px; overflow: auto; border-radius: 5px; border: 1px solid #000; margin-top: 5px;">
