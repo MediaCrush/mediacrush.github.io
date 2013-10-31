@@ -5,6 +5,12 @@
         <title>{{ page.title }}</title>
         <link href='//fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="/static/stylesheet.css" type="text/css" />
+        <script type="text/javascript">
+        window.beforeMediaCrushLoad = function() {
+            MediaCrush.maxMediaWidth = 700;
+        };
+        </script>
+        <script type="text/javascript" src="https://mediacru.sh/static/mediacrush.js"></script>
     </head>
     <body>
         <div class="container">
