@@ -1,9 +1,9 @@
 ---
-title: Transparency Reports for October 2013
+title: Transparency Reports for September 2013
 layout: post
 ---
 
-Hey there! Got the October reports for you. Sorry this one comes a couple days late. Remember, if you want to
+Hey there! Got the September reports for you. Sorry this one comes a couple days late. Remember, if you want to
 improve these numbers, the best way is to tell your friends about MediaCrush.
 
 Interesting reports are shown in bold.
