@@ -3,7 +3,7 @@ title: Transparency Reports for October 2013
 layout: post
 ---
 
-Hey there! Got the October reports for you. Thanks a bunch to our donations this month!
+Hey there! Got the October reports for you. Thanks a bunch to our donors for supporting us this month!
 
 Interesting reports are shown in bold.
 
