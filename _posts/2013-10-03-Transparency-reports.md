@@ -10,12 +10,12 @@ Interesting reports are shown in bold.
 
 * **[2013-10-01-Adsense.csv](https://mediacru.sh/transparency/advertising/2013-10-01-Adsense.csv)**
 * **[2013-10-01-Donations.md](https://mediacru.sh/transparency/donations/2013-10-01-Donations.md)**
-* [2013-10-01-Analytics-Browser-and-OS.csv](https://mediacru.sh/transparency/google-analytics/2013-10-01-Analytics-Browser-and-OS.csv)
-* [2013-10-01-Analytics-Browser-and-OS.pdf](https://mediacru.sh/transparency/google-analytics/2013-10-01-Analytics-Browser-and-OS.pdf)
-* [2013-10-01-Analytics-Overview.csv](https://mediacru.sh/transparency/google-analytics/2013-10-01-Analytics-Overview.csv)
-* **[2013-10-01-Analytics-Overview.pdf](https://mediacru.sh/transparency/google-analytics/2013-10-01-Analytics-Overview.pdf)**
-* [2013-10-01-Analytics-Referral-Traffic.csv](https://mediacru.sh/transparency/google-analytics/2013-10-01-Analytics-Referral-Traffic.csv)
-* [2013-10-01-Analytics-Referral-Traffic.pdf](https://mediacru.sh/transparency/google-analytics/2013-10-01-Analytics-Referral-Traffic.pdf)
+* [2013-10-01-Analytics-Browser-and-OS.csv](https://mediacru.sh/transparency/analytics/2013-10-01-Analytics-Browser-and-OS.csv)
+* [2013-10-01-Analytics-Browser-and-OS.pdf](https://mediacru.sh/transparency/analytics/2013-10-01-Analytics-Browser-and-OS.pdf)
+* [2013-10-01-Analytics-Overview.csv](https://mediacru.sh/transparency/analytics/2013-10-01-Analytics-Overview.csv)
+* **[2013-10-01-Analytics-Overview.pdf](https://mediacru.sh/transparency/analytics/2013-10-01-Analytics-Overview.pdf)**
+* [2013-10-01-Analytics-Referral-Traffic.csv](https://mediacru.sh/transparency/analytics/2013-10-01-Analytics-Referral-Traffic.csv)
+* [2013-10-01-Analytics-Referral-Traffic.pdf](https://mediacru.sh/transparency/analytics/2013-10-01-Analytics-Referral-Traffic.pdf)
 * **[2013-10-01-AWS-Billing.pdf](https://mediacru.sh/transparency/hosting/2013-10-01-AWS-Billing.pdf)**
 * [2013-10-01-AWS-Usage.csv](https://mediacru.sh/transparency/hosting/2013-10-01-AWS-Usage.csv)
 * **[2013-10-01-Financial-summary.md](https://mediacru.sh/transparency/2013-10-01-Financial-summary.md)**
