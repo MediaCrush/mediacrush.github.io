@@ -3,12 +3,13 @@ title: MediaCrush for Nerds
 layout: post
 ---
 
-If you aren't familiar with [MediaCrush](https://mediacru.sh), a quick introduction: MediaCrush is an image
-hosting website designed for speedy images, but without sacrificing quality. We run uploaded static images
+If you aren't familiar with [MediaCrush](https://mediacru.sh), a quick introduction: MediaCrush is a media
+hosting website designed for speedy hosting, without sacrificing quality. We run uploaded static images
 through various lossless compression tools, but the big draw is our GIF support. Whenever you upload a gif
 to MediaCrush, we convert it to a video using h.264 and Theora to encode it, which gets us dramatically
-smaller files. More details are available on the [demo page](https://mediacru.sh/demo). You might also
-check out [this corresponding post](/2013/07/19/MediaCrush-for-users.html) aimed at non-technical users.
+smaller files. More details are available on the [about page](https://mediacru.sh/about). You might also
+check out [this corresponding post](/2013/07/19/MediaCrush-for-users.html) aimed at non-technical users. In
+addition to GIFs and static images, we also support video and audio uploads.
 
 We're just tidying up around the place here before entering public beta. We're happy to have support
 from Reddit Enhancement Suite on day one, which we think will really benefit us. All the features we wanted
