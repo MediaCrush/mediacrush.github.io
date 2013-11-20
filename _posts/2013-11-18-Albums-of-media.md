@@ -7,7 +7,7 @@ After a bunch of work last week, we're proud to reveal our latest feature: album
 possible to use MediaCrush to create albums of HTML5'd gifs, images, videos, and audio to
 share with your friends.
 
-<div class="mediacrush" data-media="99c3acb6c671"></div>
+<div class="mediacrush" data-media="29266380d26b"></div>
 
 It's easy to use. Just [upload files](https://mediacru.sh) like usual and click on "create
 album" once you've uploaded at least two. Albums can also be embedded like other media can,
