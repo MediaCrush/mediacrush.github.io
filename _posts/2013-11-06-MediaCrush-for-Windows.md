@@ -14,7 +14,7 @@ MediaCrush, no extra hassle. If that sounds like your cup of tea, grab
 
 Not on Windows? Hey, no worries. We've got a mobile site, a [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/mediacrush/),
 a [Chrome extension](https://chrome.google.com/webstore/detail/mediacrush/efbojpedpjjpppahkknegfblpdliiple),
-and a [bash script](https://github.com/SirCmpwn/dotfiles/blob/master/scripts/mc), too! And of course, you can always just
+and a [bash script](https://github.com/MediaCrush/MediaCrush-cli), too! And of course, you can always just
 [upload directly from your web browser](https://mediacru.sh). We're working on even more ways to use
 MediaCrush, so sit tight if you're not covered yet.
 
