@@ -38,6 +38,16 @@ In addition to getting contributors and bug reports, we also get a lot of good w
 News, we've seen comments like [this one](https://news.ycombinator.com/item?id=6189664) praising our philosophies. People
 talk about your stuff more if it's open source!
 
+## Roadmap
+
+So how do you make money with an open source website like this? We don't make much money out of ads, and the (generous)
+donations we receive probably won't last forever. We're working on a cool new thing that will let us manage and deploy
+new instances of MediaCrush for you. You'll be able to rent a MediaCrush server from us and have a private place to
+upload and share media. Of course, you can still set up a private instance on your own - we'll just make it nice and
+simple for you. We also plan to offer support to those using our private instances, as well as handle the deployment
+of updates and any other maintenance they might need. We aren't sure how this'll work out, so make sure you come back to
+read the follow up a few months from now!
+
 ## The bottom line
 
 Of course, all of this is meaningless if you can't be successful. There's the risk that someone will take your work,
@@ -51,15 +61,5 @@ The community that builds up around your work is a lot cooler when your work is 
 A big part of what we do is taking care of our users. None of this works without love. We love them, and want them to love
 using the site. You should follow our lead in defending user privacy - we serve all pages over HTTPS, we store nothing
 about our users, and we are [completely transparent](https://mediacru.sh/transparency) about our operations.
-
-## Roadmap
-
-So how do you make money with an open source website like this? We don't make much money out of ads, and the (generous)
-donations we receive probably won't last forever. We're working on a cool new thing that will let us manage and deploy
-new instances of MediaCrush for you. You'll be able to rent a MediaCrush server from us and have a private place to
-upload and share media. Of course, you can still set up a private instance on your own - we'll just make it nice and
-simple for you. We also plan to offer support to those using our private instances, as well as handle the deployment
-of updates and any other maintenance they might need. We aren't sure how this'll work out, so make sure you come back to
-read the follow up a few months from now!
 
 As always, thanks for using MediaCrush, and a big thanks to our awesome community!
