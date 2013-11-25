@@ -58,6 +58,12 @@ h1 a:hover, h3 a:hover {
     top: 10px;
 }
 
+.rss {
+    position: absolute;
+    left: 270px;
+    top: 5px;
+}
+
 .row .left {
     float: left;
 }

@@ -5,6 +5,7 @@
         <title>{{ page.title }}</title>
         <link href='//fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="/static/stylesheet.css" type="text/css" />
+        <link rel="alternate" type="application/rss+xml" title="RSS" href="https://blog.mediacru.sh/feed.xml">
         <script type="text/javascript">
         window.beforeMediaCrushLoad = function() {
             MediaCrush.maxMediaWidth = 720;
@@ -13,6 +14,7 @@
     </head>
     <body>
         <div class="container">
+            <a class="rss" href="/feed.xml"><img src="/static/rss.png" alt="RSS" /></a>
             <a class="linkback" href="https://mediacru.sh">Back to MediaCrush&#xbb;</a>
             <h1><a href="/">MediaCrush Blog</a></h1>
             {{ content }}
