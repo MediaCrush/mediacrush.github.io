@@ -19,7 +19,7 @@ Interesting reports are shown in bold.
 * **[2013-12-01-Analytics-Overview.pdf](https://mediacru.sh/transparency/analytics/2013-12-01-Analytics-Overview.pdf)**
 * [2013-12-01-Analytics-Referral-Traffic.csv](https://mediacru.sh/transparency/analytics/2013-12-01-Analytics-Referral-Traffic.csv)
 * [2013-12-01-Analytics-Referral-Traffic.pdf](https://mediacru.sh/transparency/analytics/2013-12-01-Analytics-Referral-Traffic.pdf)
-* **[2013-11-01-Financial-summary.md](https://mediacru.sh/transparency/2013-12-01-Financial-summary.md)**
+* **[2013-12-01-Financial-summary.md](https://mediacru.sh/transparency/2013-12-01-Financial-summary.md)**
 
 You may view all reports, including previous dates, here: [https://mediacru.sh/transparency](https://mediacru.sh/transparency)
 
