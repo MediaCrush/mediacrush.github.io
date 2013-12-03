@@ -1,5 +1,5 @@
 ---
-title: Removing Advertisements
+title: Removing Advertising from MediaCrush
 layout: post
 ---
 
