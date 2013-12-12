@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Supporting all media formats
+title: MediaCrush now supports nearly every media format
 ---
 
 Starting today, MediaCrush supports **over 500** different media formats. This includes everything
