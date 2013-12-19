@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The right way to encode HTML5 video
+title: The right way to encode HTML5 video and audio
 ---
 
 The title of this might be a little misleading, since I'm also going to go into detail on how MediaCrush
@@ -9,7 +9,7 @@ if you're not a hacker, don't feel bad for not understanding it.
 
 The goal of this article is to clear up the misinformation around how video and audio should be encoded
 for the web. We've personally spent a lot of time working on it, going through several revisions and hours
-of effort to support nearly all browsers and devices. MediaCrush can now take just about any video, audio,
+of hair-tearing effort to support nearly all browsers and devices. MediaCrush can now take just about any video, audio,
 or image format, and turn it into something browser friendly. Feel free to
 [watch this video](https://mediacru.sh/a6bivSCFLqNJ) on any device you can get your hands on to see that
 we know what we're talking about.
