@@ -43,6 +43,11 @@ processed. We hand it off to the appropriate processor, which has an async and a
 processing is considered "complete" and ready for user consumption when sync finishes, and errors in
 async fail silently, since the media is supposedly ready to go anyway.
 
+The user isn't told that the file is done until "sync" finishes. This step is responsible for
+anything crucial to displaying the file in the browser - most of the video/audio encoding happens
+here. The "async" step is executed later and does things like optimizing PNG files and compressing
+GIFs.
+
 # Format Detection
 
 When a file is uploaded to MediaCrush, we don't make any assumptions about what it is. We ignore the
