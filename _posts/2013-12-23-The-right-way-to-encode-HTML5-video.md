@@ -170,6 +170,14 @@ Apply the scale filter to get a reasonably sized thumbnail:
 
     ffmpeg -i input.ext -vframes 1 -map 0:v:0 -vf "scale=100:100" thumbnail.png
 
+### Subtitles
+
+We're currently working on getting support for VTT, SRT, and ASS subtitles on MediaCrush, but we're not
+done. Right now, we have a functional prototype for ASS support, and we're strongly considering it for
+inclusion in the master branch. If we finish it up, we'll revisit this post and describe how it's done.
+You'll need to discover and extract subtitles and fonts, as well as provide a client-side subtitle
+rendering solution like [libjass](https://github.com/Arnavion/libjass) or [WebVTT](https://wiki.mozilla.org/WebVTT).
+
 ## Audio Encoding
 
 Audio is a little easier. Here, we've given ffmpeg the choice on quality, and it'll tend towards the
@@ -216,6 +224,17 @@ Once you've encoded your videos/audio, you can render them like this:
 Be sure to read [Mozilla's guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML5_audio_and_video)
 on using HTML5 video and audio in your web pages. Leave a comment here or join our
 [IRC channel](http://webchat.freenode.net/?channels=mediacrush&uio=d4) (#mediacrush on freenode) if you'd like
-to ask us any questions. You're also welcome to [browse our code](https://github.com/MediaCrush/MediaCrush) for
-a working demo. And of course, if all of this seems like a pain in the ass, feel free to reference our
+to ask us any questions. You can also reach out through our subreddit, [/r/MediaCrush](https://pay.reddit.com/r/MediaCrush).
+You're also welcome to [browse our code](https://github.com/MediaCrush/MediaCrush) for a working demo. And of course,
+if all of this seems like a pain in the ass, feel free to reference our
 [developer docs](https://mediacru.sh/docs) to let us do the heavy lifting for you.
+
+### Additional Reading
+
+Here are some more resources:
+
+* [ffmpeg docs](http://ffmpeg.org/documentation.html)
+* [webm docs](http://www.webmproject.org/)
+* [x264 docs](https://www.videolan.org/developers/x264.html)
+* [HTML5 video tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
+* [HTML5 audio tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
