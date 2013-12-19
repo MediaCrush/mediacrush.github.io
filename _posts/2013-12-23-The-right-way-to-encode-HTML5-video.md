@@ -111,7 +111,7 @@ This takes `input.ext` and produces `output.mp4`. Here are each of the options u
 
 * `-vcodec libx264` specifies that we want to use libx264 as our video codec
 * `-pix_fmt yuv420p` specifies the yuv420p pixel format, which works on more platforms than other formats
-* `-profile:v baseline` uses the x64 'baseline' profile (makes Android happy)
+* `-profile:v baseline` uses the x264 'baseline' profile (makes Android happy)
 * `-preset slower` tells ffmpeg to prefer slower encoding and better results over faster encoding time
 * `-crf 18` sets the *constant rate factor* to 18, which affects quality. Lower numbers are better quality
 * `-vf "scale=..."` uses the *scale* video filter to make sure that the video doesn't have an odd width/height
