@@ -173,8 +173,7 @@ Apply the scale filter to get a reasonably sized thumbnail:
 ### Subtitles
 
 We're currently working on getting support for VTT, SRT, and ASS subtitles on MediaCrush, but we're not
-done. Right now, we have a functional prototype for ASS support, and we're strongly considering it for
-inclusion in the master branch. If we finish it up, we'll revisit this post and describe how it's done.
+done. When we finish it up, we'll revisit this post and describe how it's done.
 You'll need to discover and extract subtitles and fonts, as well as provide a client-side subtitle
 rendering solution like [libjass](https://github.com/Arnavion/libjass) or [WebVTT](https://wiki.mozilla.org/WebVTT).
 
