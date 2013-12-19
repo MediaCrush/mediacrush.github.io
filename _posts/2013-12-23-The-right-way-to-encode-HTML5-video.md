@@ -4,7 +4,7 @@ title: The right way to encode HTML5 video and audio
 ---
 
 The title of this might be a little misleading, since I'm also going to go into detail on how MediaCrush
-handles video, audio, and arbituary image formats for display on the web. This is a technical article -
+handles video, audio, and arbitrary image formats for display on the web. This is a technical article -
 if you're not a hacker, don't feel bad for not understanding it.
 
 The goal of this article is to clear up the misinformation around how video and audio should be encoded
@@ -24,7 +24,7 @@ contribution if you think we can improve it.
 Let's get started. You'll want the tools of the trade. We built our service on Linux, but you can probably
 get it working on OSX or Windows with enough effort. You'll need to acquire and become familar with
 [ffmpeg](http://ffmpeg.org) and [ImageMagick](http://www.imagemagick.org). The latter is optional if you
-don't care about how we handle arbituary image formats.
+don't care about how we handle arbitrary image formats.
 
 Please note that **you cannot use your distribution-provided ffmpeg package**. You'll need the
 non-distributable libx264 to handle media on the web properly. [Read up](http://trac.ffmpeg.org/wiki/CompilationGuide)
