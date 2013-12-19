@@ -182,7 +182,7 @@ rendering solution like [libjass](https://github.com/Arnavion/libjass) or [WebVT
 Audio is a little easier. Here, we've given ffmpeg the choice on quality, and it'll tend towards the
 highest quality possible. We need an mp3 file and an ogg file to support all browsers.
 
-## mp3
+### mp3
 
     ffmpeg -i input.ext -acodec libmp3lame -q:a 0 -map 0:a:0 output.mp3
 
@@ -195,7 +195,7 @@ audio track made it into the output file.
 
 [Further reading](https://ffmpeg.org/trac/ffmpeg/wiki/Encoding%20VBR%20%28Variable%20Bit%20Rate%29%20mp3%20audio)
 
-## ogg
+### ogg
 
     ffmpeg -i input.ext -acodec libvorbis -q:a 10 -map 0:a:0 output.ogg
 
