@@ -7,7 +7,7 @@ Hi there! We deployed a quick update here at MediaCrush, just in time for Christ
 Now, when you upload any video file (including GIFs!), you get the option to change
 some settings on them!
 
-<img src="https://mediacru.sh/-6foMUHTj9fN.png" alt="Changing settings on media"></div>
+<img src="https://mediacru.sh/-6foMUHTj9fN.png" alt="Changing settings on media">
 
 This means that you can upload an actual video, turn on loop,
 autoplay, and mute, and it'll work like a GIF. You can also turn off looping or
