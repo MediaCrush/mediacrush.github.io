@@ -26,7 +26,7 @@ So here's our architecture:
   * nginx proxying to gunicorn (gunicorn serves HTML, nginx serves static CSS and JS)
   * Python web (Flask) looks up media info from Redis (no caching) when serving view pages
   * Hosted on Voxility
-  * 8 cores, 32G RAM
+  * 8 cores, 32GB RAM
   * Everything over HTTPS with SPDY v2
 
 The web server also handles media transcoding and other processing
@@ -35,7 +35,7 @@ jobs, hence the 8 cores.
 The reason we stayed alive is probably because we serve videos on
 CloudFront, but our web server did its fair share, too. The web
 server was handling a couple hundred requests per second at the peak
-of this burst, and it was pushing about 100mpbs of network usage.
+of this burst, and it was pushing about 100MB/s of network usage.
 
 That being said, the CloudFront costs were notable:
 
