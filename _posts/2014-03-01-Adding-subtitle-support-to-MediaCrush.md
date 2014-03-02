@@ -5,7 +5,7 @@ title: Adding subtitle support to MediaCrush
 
 We have just finished rolling out support for video with subtitles and closed
 captioning, for the sake of our hard-of-hearing and monolingual friends. We
-now support subtitles in the srt, vtt, and ssa formats (the three most common),
+now support subtitles in the SRT, WebVTT, and SSA formats (the three most common),
 so if you upload a video with embedded subtitles, you'll now be able to use
 the settings on the bottom-right of each video to turn them on and off.
 
@@ -13,7 +13,7 @@ the settings on the bottom-right of each video to turn them on and off.
 <p class="small">Source: Bakemonogatari: Saitou Chiwa - Staple Stable. Subtitles by CoalGirls</p>
 
 We've built this with the help of some great open-source projects. SRT is
-converted to WevVTT [in-house](#), and then VTT is supported by the browser
+converted to WevVTT [in-house](https://github.com/MediaCrush/MediaCrush/blob/master/mediacrush/processing/processors.py#L177), and then WebVTT is supported by the browser
 natively when possible, or via [captionator.js](http://captionatorjs.com/) when required.
 SSA support is offered by the wonderful [libjass](https://github.com/Arnavion/libjass).
 Interestingly, this is the first time we've added client-side external
