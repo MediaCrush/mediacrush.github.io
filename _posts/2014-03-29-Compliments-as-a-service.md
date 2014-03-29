@@ -23,4 +23,7 @@ xhr.send();
 </script>
 
 We're still trying to figure out a good way to integrate this into MediaCrush proper.
+Right now, we use this to generate compliments that our servers email us in their
+daily status reports, but a user-facing use-case would be great.
+
 As always, thanks for using MediaCrush!
