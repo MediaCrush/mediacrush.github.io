@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: justify;
+    overflow-x: hidden;
 }
 
 .container {
@@ -144,4 +145,16 @@ blockquote {
 
 #mediacrush-error {
     color: red;
+}
+
+#world {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.container {
+    background: #fff;
 }
