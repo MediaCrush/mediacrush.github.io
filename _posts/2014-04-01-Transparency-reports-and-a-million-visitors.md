@@ -80,22 +80,22 @@ bold.
 
 A copy of the financial report is shown here:
 
-    In the month of March, the following expenses were accrued:
-
-    * Hosting: $199.00
-    * CloudFront: $235.45
-
-    Total USD: $434.45
-
-    The following revenue was generated:
-
-    * Donations:
-      * Coinbase: 0.00 BTC
-      * Dwolla; $0
-      * Flattr: $0
-
-    The operating profit for Feburary is $-434.45
-
-    Cumulatively, over the lifetime of MediaCrush, the operating profit is $-2664.26.
+>In the month of March, the following expenses were accrued:
+>
+>* Hosting: $199.00
+>* CloudFront: $235.45
+>
+>Total USD: $434.45
+>
+>The following revenue was generated:
+>
+>* Donations:
+>  * Coinbase: 0.00 BTC
+>  * Dwolla; $0
+>  * Flattr: $0
+>
+>The operating profit for Feburary is $-434.45
+>
+>Cumulatively, over the lifetime of MediaCrush, the operating profit is $-2664.26.
 
 Thanks for using MediaCrush, and here's to another million!
