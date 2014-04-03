@@ -49,8 +49,53 @@ Here's a quick little history of what we've done since then, for nostalgia's sak
 
 We really do appreciate all that you guys have done to support us. I'm glad to have been a
 part of MediaCrush, and I look forward to serving you all in the future. And of course,
-thanks to [Kevin Granger](http://codepen.io/Shipow/pen/cEgiu), who built this wonderful
+thanks to [Kevin Granger](https://twitter.com/Kevin_Granger), who built this wonderful
 confetti thingy - without which, this blog post would be lame.
 
 Now, to hold up to the principles we were founded on - this month's transparency reports
 are ready.
+
+This month, we added [Gittip](https://gittip.com/mediacrush) to our list of services you
+can donate with. However, we haven't yet sorted out all the issues with actually getting
+money from them, so they won't be included in this month's reporting. That being said,
+we're very optimistic about it - we currently stand to earn more donations from Gittip
+than from any other source.
+
+Speaking of donations, we'd love to get some help with our ever-growing costs. For example,
+we recently saw our highest day of traffic ever: 219,109 unique people visited the site,
+not counting those who set [Do Not Track](http://donottrack.us), or those connecting through
+the API (hello, RES users!). To put that into a financial context, that day alone cost us
+about $120 in CDN costs. [You can help!](https://mediacru.sh/donate)
+
+Without further ado, however, here are today's reports. Interesting reports are shown in
+bold.
+
+* [2014-04-01-Analytics-Browser-and-OS.csv](https://mediacru.sh/transparency/analytics/2014-04-01-Analytics-Browser-and-OS.csv)
+* [2014-04-01-Analytics-Browser-and-OS.pdf](https://mediacru.sh/transparency/analytics/2014-04-01-Analytics-Browser-and-OS.pdf)
+* [2014-04-01-Analytics-Overview.csv](https://mediacru.sh/transparency/analytics/2014-04-01-Analytics-Overview.csv)
+* **[2014-04-01-Analytics-Overview.pdf](https://mediacru.sh/transparency/analytics/2014-04-01-Analytics-Overview.pdf)**
+* [2014-04-01-Analytics-Referral-Traffic.csv](https://mediacru.sh/transparency/analytics/2014-04-01-Analytics-Referral-Traffic.csv)
+* [2014-04-01-Analytics-Referral-Traffic.pdf](https://mediacru.sh/transparency/analytics/2014-04-01-Analytics-Referral-Traffic.pdf)
+* **[2014-04-01-Financial-summary.md](https://mediacru.sh/transparency/2014-04-01-Financial-summary.md)**
+
+A copy of the financial report is shown here:
+
+    In the month of March, the following expensive were accrued:
+
+    * Hosting: $199.00
+    * CloudFront: $235.45
+
+    Total USD: $434.45
+
+    The following revenue was generated:
+
+    * Donations:
+      * Coinbase: 0.00 BTC
+      * Dwolla; $0
+      * Flattr: $0
+
+    The operating profit for Feburary is $-434.45
+
+    Cumulatively, over the lifetime of MediaCrush, the operating profit is $-2664.26.
+
+Thanks for using MediaCrush, and here's to another million!
