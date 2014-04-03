@@ -80,7 +80,7 @@ bold.
 
 A copy of the financial report is shown here:
 
-    In the month of March, the following expensive were accrued:
+    In the month of March, the following expenses were accrued:
 
     * Hosting: $199.00
     * CloudFront: $235.45
