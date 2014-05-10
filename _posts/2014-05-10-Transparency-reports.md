@@ -25,14 +25,19 @@ A copy of the financial report is shown here:
 >
 >The following revenue was generated:
 >
+>* Advertisements:
+>  * Project Wonderful: $18.82
+>
 >* Donations:
 >  * Coinbase: 0.00 BTC
 >  * Dwolla: $0
->  * Flattr: $0
+>  * Flattr: €28.35 
 >  * Gittip: $26
+
+>The operating profit for Feburary is $-115.21
 >
->The operating profit for Feburary is $-173
->
->Cumulatively, over the lifetime of MediaCrush, the operating profit is $-2837.26.
+>Cumulatively, over the lifetime of MediaCrush, the operating profit is $-2779.47
+
+This is the first month that we have been running ads on MediaCrush. You can read more about our choices [here](https://mediacru.sh/advertising).
 
 Thanks for flying MediaCrush!
