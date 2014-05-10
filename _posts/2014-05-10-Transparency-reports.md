@@ -3,7 +3,8 @@ layout: post
 title: Transparency reports for April 2014
 ---
 
-Hello! Here's April's transparency report. Sorry it's a bit late, we've been rather busy!
+Hello! Here's April's transparency report. Sorry it's a bit late, we've been rather busy! This is the first month that we have been running ads on MediaCrush. You can read more about our choices [here](https://mediacru.sh/advertising).
+
 
 Interesting reports are shown in bold:
 
@@ -37,7 +38,5 @@ A copy of the financial report is shown here:
 >The operating profit for Feburary is $-115.21
 >
 >Cumulatively, over the lifetime of MediaCrush, the operating profit is $-2779.47
-
-This is the first month that we have been running ads on MediaCrush. You can read more about our choices [here](https://mediacru.sh/advertising).
 
 Thanks for flying MediaCrush!
