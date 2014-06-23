@@ -177,10 +177,46 @@ Apply the scale filter to get a reasonably sized thumbnail:
 
 ### Subtitles
 
-We're currently working on getting support for VTT, SRT, and ASS subtitles on MediaCrush, but we're not
-done. When we finish it up, we'll revisit this post and describe how it's done.
-You'll need to discover and extract subtitles and fonts, as well as provide a client-side subtitle
-rendering solution like [libjass](https://github.com/Arnavion/libjass) or [WebVTT](https://wiki.mozilla.org/WebVTT).
+Note: This section was written some time after this article was first published.
+We did not feel comfortable offering advice on subtitles when the article was
+written and promised to update it later when we were more familiar with them.
+
+You may extract a subtitle track from a video file like so:
+
+    ffmpeg -y -i INPUT -map 0:s:0 OUTPUT.{srt,ass}
+
+This only removes the first subtitle track from the file. A more sophisticated
+solution would be required to detect and extract only the default track, or
+perhaps to handle some more complex situations. When you do get a subtitle file
+you wish to use, you will find it in one of two formats:
+
+* SRT (SubRip Subtitles)
+* ASS (Advanced Sub-Station)
+
+SRT is very similar to VTT, and VTT has support natively via
+[WebVTT](https://wiki.mozilla.org/WebVTT). MediaCrush has [a
+procedure](https://github.com/MediaCrush/MediaCrush/blob/master/mediacrush/processing/processors.py#L182)
+for converting SRT to VTT for use on the web. However, ASS is a much more
+versatile subtitle format, with support for more interesting subtitles and
+effects. VTT/SRT, on the other hand, is a glorified closed captioning format.
+
+To use VTT subtitles, you must know that only Chrome currently has native support
+for WebVTT. MediaCrush uses [captionator.js](http://captionatorjs.com/) to
+polyfill VTT subtitles in other browsers. Please browse captionator's
+documentation to learn how it may be used.
+
+For Chrome, it's as simple as adding a track to your \<video> tag:
+
+    <track src="/example.vtt" kind="subtitles" data-format="vtt" default />
+
+For ASS subtitles, there is no native support. However, the advantages they
+present make it reasonable to wish for support. MediaCrush uses
+[libjass](https://github.com/Arnavion/libjass) to provide support for ASS
+subtitles. This is a bit too complex for this blog post, but I suggest you browse
+our code to learn more about how we applied libjass to our workflow. It's much
+more involved: we have to generate CSS files, extract fonts and subtitle tracks,
+and generally go to a lot more trouble to support ASS. Join us on IRC if you run
+into any problems and would like to hear more.
 
 ## Audio Encoding
 
