@@ -26,8 +26,7 @@ get it working on OSX or Windows with enough effort. You'll need to acquire and 
 [ffmpeg](http://ffmpeg.org) and [ImageMagick](http://www.imagemagick.org). The latter is optional if you
 don't care about how we handle arbitrary image formats.
 
-Please note that **you cannot use your distribution-provided ffmpeg package**. You'll need the
-non-distributable libx264 to handle media on the web properly. [Read up](http://trac.ffmpeg.org/wiki/CompilationGuide)
+Please note that **you cannot use your distribution-provided ffmpeg package**. [Read up](http://trac.ffmpeg.org/wiki/CompilationGuide)
 on compiling ffmpeg yourself and make sure you include libx264, fdk-aac, libmp3lame, libvpx, and libopus.
 Our servers and dev machines run Arch Linux and we just install the
 [ffmpeg-full](https://aur.archlinux.org/packages/ffmpeg-full/) package from the AUR.
