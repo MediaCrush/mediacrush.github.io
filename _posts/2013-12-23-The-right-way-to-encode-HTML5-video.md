@@ -100,8 +100,8 @@ streams we need in each file.
 
 Our videos also need to be using yuv420p as the pixel format, and we need to use **8-bit** libx264. This is important, 10-bit libx264 will *not* work.
 Additionally, h.264 does not allow for videos with an odd-numbered width or height, so our mp4 file
-is scaled to compensate for this. WEBM works with odd sizes in compliant browsers. However, funnily
-enough, Chrome among these browsers.
+is scaled to compensate for this. WebM works with odd sizes in compliant browsers. However, funnily
+enough, Chrome is not among these browsers.
 
 Note that you **must** re-encode any videos you want to use. If you already have, say, an mp4 file,
 it is probably not good-to-go and you still need to process it.
