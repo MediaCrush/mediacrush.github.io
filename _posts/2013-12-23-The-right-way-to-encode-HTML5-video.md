@@ -205,7 +205,7 @@ for WebVTT. MediaCrush uses [captionator.js](http://captionatorjs.com/) to
 polyfill VTT subtitles in other browsers. Please browse captionator's
 documentation to learn how it may be used.
 
-For Chrome, it's as simple as adding a track to your \<video> tag:
+For Chrome, it's as simple as adding a track to your video tag:
 
     <track src="/example.vtt" kind="subtitles" data-format="vtt" default />
 
