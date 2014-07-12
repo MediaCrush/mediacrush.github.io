@@ -6,6 +6,10 @@ body {
     overflow-x: hidden;
 }
 
+.centered {
+    text-align: center;
+}
+
 .container {
     width: 800px;
     margin: 0 auto;
