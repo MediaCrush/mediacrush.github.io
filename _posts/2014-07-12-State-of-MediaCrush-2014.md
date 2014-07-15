@@ -220,7 +220,7 @@ users:
 
 ![](https://cdn.mediacru.sh/dL6ci4eVJuX3.png)
 
-ISPs, by the way, who are fiercely lobbying the FCC for persmission to ruin the
+ISPs, by the way, who are fiercely lobbying the FCC for permission to ruin the
 internet. The rules they want to follow would ruin MediaCrush, who clearly cannot
 afford to pay bribes to get content to you faster. You can reach a human at the
 FCC by calling +1 (888) 225-5322, then pressing 1, 4, 0.
