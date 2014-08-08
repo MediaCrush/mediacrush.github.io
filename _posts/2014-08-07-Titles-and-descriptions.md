@@ -1,7 +1,8 @@
 ---
 # vim: tw=82
 layout: post
-title: New feature: titles and descriptions
+title: >
+  New feature: titles and descriptions
 ---
 
 New feature: set titles and descriptions on uploaded files.
